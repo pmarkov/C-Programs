@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\1\source\repos\copy-file2\copy-file2\main.c(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\1\source\repos\copy-file2\copy-file2\main.c(31): warning C4013: 'copy' undefined; assuming extern returning int
+c:\users\1\source\repos\copy-file2\copy-file2\main.c(37): error C2371: 'copy': redefinition; different basic types

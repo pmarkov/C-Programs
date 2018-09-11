@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\1\source\repos\proverka c\proverka c\main.c(16): warning C4018: '<': signed/unsigned mismatch
+  proverka c.vcxproj -> C:\Users\1\source\repos\proverka c\Debug\proverka c.exe

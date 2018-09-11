@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\1\source\repos\dom-string2\dom-string2\source.c(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\1\source\repos\dom-string2\dom-string2\source.c(18): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+c:\users\1\source\repos\dom-string2\dom-string2\source.c(19): warning C4047: '!=': 'int' differs in levels of indirection from 'char [2]'
+  dom-string2.vcxproj -> C:\Users\1\source\repos\dom-string2\Debug\dom-string2.exe

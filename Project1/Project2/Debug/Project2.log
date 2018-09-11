@@ -1,0 +1,11 @@
+﻿  getchar.c
+c:\users\1\source\repos\project1\project2\getchar.c(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\1\source\repos\project1\project2\getchar.c(35): warning C4013: 'pow' undefined; assuming extern returning int
+c:\users\1\source\repos\project1\project2\getchar.c(36): warning C4013: 'sqrt' undefined; assuming extern returning int
+c:\users\1\source\repos\project1\project2\getchar.c(36): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\1\source\repos\project1\project2\getchar.c(22): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+c:\users\1\source\repos\project1\project2\getchar.c(44): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\1\source\repos\project1\project2\getchar.c(44): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+c:\users\1\source\repos\project1\project2\getchar.c(44): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\users\1\source\repos\project1\project2\getchar.c(44): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+c:\users\1\source\repos\project1\project2\getchar.c(21): error C4700: uninitialized local variable 'x' used

@@ -1,0 +1,2 @@
+﻿  main.c
+c:\users\1\source\repos\kontrolno-2\kontrolno-2\main.c(42): warning C4013: 'system' undefined; assuming extern returning int

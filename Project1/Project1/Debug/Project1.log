@@ -1,0 +1,2 @@
+﻿hello.obj : error LNK2005: _main already defined in b.obj
+C:\Users\1\source\repos\Project1\Debug\Project1.exe : fatal error LNK1169: one or more multiply defined symbols found

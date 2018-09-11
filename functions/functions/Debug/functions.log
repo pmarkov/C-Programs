@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\1\source\repos\functions\functions\source.c(51): warning C4101: 'tmp': unreferenced local variable
+c:\users\1\source\repos\functions\functions\source.c(48): warning C4716: 'swap': must return a value
+  functions.vcxproj -> C:\Users\1\source\repos\functions\Debug\functions.exe

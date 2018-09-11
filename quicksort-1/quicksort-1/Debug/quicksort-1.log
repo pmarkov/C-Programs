@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\1\source\repos\quicksort-1\quicksort-1\main.c(23): warning C4013: 'partition' undefined; assuming extern returning int
+  quicksort-1.vcxproj -> c:\users\1\source\repos\quicksort-1\Debug\quicksort-1.exe

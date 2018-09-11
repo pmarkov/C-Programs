@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\1\source\repos\system_calls\system_calls\main.c(21): warning C4013: 'open' undefined; assuming extern returning int
+c:\users\1\source\repos\system_calls\system_calls\main.c(24): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\1\source\repos\system_calls\system_calls\main.c(30): warning C4013: 'close' undefined; assuming extern returning int
+c:\users\1\source\repos\system_calls\system_calls\main.c(10): warning C4101: 'ch': unreferenced local variable
+c:\users\1\source\repos\system_calls\system_calls\main.c(59): warning C4013: 'read' undefined; assuming extern returning int
+c:\users\1\source\repos\system_calls\system_calls\main.c(63): warning C4013: 'write' undefined; assuming extern returning int
+c:\users\1\source\repos\system_calls\system_calls\main.c(39): warning C4101: 'buffer': unreferenced local variable
+  System_calls.vcxproj -> C:\Users\1\source\repos\System_calls\Debug\System_calls.exe

@@ -1,0 +1,1 @@
+this vehicle is assigned 5 rides: [2,0,4,6,1]

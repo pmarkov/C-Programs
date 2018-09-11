@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\1\source\repos\str-funkcii\str-funkcii\main.c(71): warning C4013: 'system' undefined; assuming extern returning int
+  str-funkcii.vcxproj -> c:\users\1\source\repos\str-funkcii\Debug\str-funkcii.exe

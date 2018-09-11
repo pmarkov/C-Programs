@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\1\source\repos\qsort-lines\qsort-lines\main.c(12): warning C4030: first formal parameter list longer than the second list
+c:\users\1\source\repos\qsort-lines\qsort-lines\main.c(12): warning C4028: formal parameter 1 different from declaration
+c:\users\1\source\repos\qsort-lines\qsort-lines\main.c(12): warning C4028: formal parameter 2 different from declaration
+c:\users\1\source\repos\qsort-lines\qsort-lines\main.c(12): warning C4028: formal parameter 3 different from declaration
+c:\users\1\source\repos\qsort-lines\qsort-lines\main.c(12): warning C4273: 'qsort': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_search.h(56): note: see previous definition of 'qsort'
+  Qsort-lines.vcxproj -> c:\users\1\source\repos\Qsort-lines\Debug\Qsort-lines.exe
